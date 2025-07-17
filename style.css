@@ -4,6 +4,10 @@
 #nav{
     color: red;
 }
+#nav-home{
+  color: red;
+  border-top: 4px solid red;
+}
 #nav1{
   color: red;
   padding-right: 5px;
@@ -157,4 +161,33 @@
 }
 .card-text p a{
   text-decoration: none;
+}
+#footer{
+  background: white;
+}
+#footerbody{
+  background: #740b19;
+  color: white;
+}
+
+
+
+
+/* menu */
+.menubody{
+  background: url(images/istockphoto-1492982143-612x612.jpg);
+  margin-top: 110px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 40px;
+  height: 1000px;
+}
+.menutext{
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+#menuitems{
+  margin-top: 430px;
 }
